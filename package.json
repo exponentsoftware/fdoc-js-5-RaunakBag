@@ -1,0 +1,19 @@
+{
+  "name": "api-assignment",
+  "version": "1.0.0",
+  "description": "1. Use the countries API to fetch data about countries. (5 pt)",
+  "main": "sol.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/fdoc-js-5-RaunakBag.git"
+  },
+  "author": "Raunak Bag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/fdoc-js-5-RaunakBag/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/fdoc-js-5-RaunakBag#readme"
+}
